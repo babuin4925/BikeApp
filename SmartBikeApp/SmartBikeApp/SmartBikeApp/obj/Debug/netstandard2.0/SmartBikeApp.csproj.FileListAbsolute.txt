@@ -1,0 +1,15 @@
+Z:\תשפב\sharlila\BikeApp\SmartBikeApp\SmartBikeApp\SmartBikeApp\bin\Debug\netstandard2.0\SmartBikeApp.deps.json
+Z:\תשפב\sharlila\BikeApp\SmartBikeApp\SmartBikeApp\SmartBikeApp\bin\Debug\netstandard2.0\SmartBikeApp.dll
+Z:\תשפב\sharlila\BikeApp\SmartBikeApp\SmartBikeApp\SmartBikeApp\bin\Debug\netstandard2.0\ref\SmartBikeApp.dll
+Z:\תשפב\sharlila\BikeApp\SmartBikeApp\SmartBikeApp\SmartBikeApp\bin\Debug\netstandard2.0\SmartBikeApp.pdb
+Z:\תשפב\sharlila\BikeApp\SmartBikeApp\SmartBikeApp\SmartBikeApp\obj\Debug\netstandard2.0\SmartBikeApp.csproj.AssemblyReference.cache
+Z:\תשפב\sharlila\BikeApp\SmartBikeApp\SmartBikeApp\SmartBikeApp\obj\Debug\netstandard2.0\SmartBikeApp.GeneratedMSBuildEditorConfig.editorconfig
+Z:\תשפב\sharlila\BikeApp\SmartBikeApp\SmartBikeApp\SmartBikeApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+Z:\תשפב\sharlila\BikeApp\SmartBikeApp\SmartBikeApp\SmartBikeApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+Z:\תשפב\sharlila\BikeApp\SmartBikeApp\SmartBikeApp\SmartBikeApp\obj\Debug\netstandard2.0\SmartBikeApp.AssemblyInfoInputs.cache
+Z:\תשפב\sharlila\BikeApp\SmartBikeApp\SmartBikeApp\SmartBikeApp\obj\Debug\netstandard2.0\SmartBikeApp.AssemblyInfo.cs
+Z:\תשפב\sharlila\BikeApp\SmartBikeApp\SmartBikeApp\SmartBikeApp\obj\Debug\netstandard2.0\SmartBikeApp.csproj.CoreCompileInputs.cache
+Z:\תשפב\sharlila\BikeApp\SmartBikeApp\SmartBikeApp\SmartBikeApp\obj\Debug\netstandard2.0\XamlC.stamp
+Z:\תשפב\sharlila\BikeApp\SmartBikeApp\SmartBikeApp\SmartBikeApp\obj\Debug\netstandard2.0\SmartBikeApp.dll
+Z:\תשפב\sharlila\BikeApp\SmartBikeApp\SmartBikeApp\SmartBikeApp\obj\Debug\netstandard2.0\ref\SmartBikeApp.dll
+Z:\תשפב\sharlila\BikeApp\SmartBikeApp\SmartBikeApp\SmartBikeApp\obj\Debug\netstandard2.0\SmartBikeApp.pdb

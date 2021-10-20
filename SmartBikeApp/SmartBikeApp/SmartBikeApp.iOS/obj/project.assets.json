@@ -997,11 +997,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "Z:\\תשפב\\sharlila\\BikeApp\\SmartBikeApp\\SmartBikeApp\\SmartBikeApp.iOS\\SmartBikeApp.iOS.csproj",
+      "projectUniqueName": "Z:\\sharlila\\BikeApp\\SmartBikeApp\\SmartBikeApp\\SmartBikeApp.iOS\\SmartBikeApp.iOS.csproj",
       "projectName": "SmartBikeApp.iOS",
-      "projectPath": "Z:\\תשפב\\sharlila\\BikeApp\\SmartBikeApp\\SmartBikeApp\\SmartBikeApp.iOS\\SmartBikeApp.iOS.csproj",
+      "projectPath": "Z:\\sharlila\\BikeApp\\SmartBikeApp\\SmartBikeApp\\SmartBikeApp.iOS\\SmartBikeApp.iOS.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "Z:\\תשפב\\sharlila\\BikeApp\\SmartBikeApp\\SmartBikeApp\\SmartBikeApp.iOS\\obj\\",
+      "outputPath": "Z:\\sharlila\\BikeApp\\SmartBikeApp\\SmartBikeApp\\SmartBikeApp.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -1022,8 +1022,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "Z:\\תשפב\\sharlila\\BikeApp\\SmartBikeApp\\SmartBikeApp\\SmartBikeApp\\SmartBikeApp.csproj": {
-              "projectPath": "Z:\\תשפב\\sharlila\\BikeApp\\SmartBikeApp\\SmartBikeApp\\SmartBikeApp\\SmartBikeApp.csproj"
+            "Z:\\sharlila\\BikeApp\\SmartBikeApp\\SmartBikeApp\\SmartBikeApp\\SmartBikeApp.csproj": {
+              "projectPath": "Z:\\sharlila\\BikeApp\\SmartBikeApp\\SmartBikeApp\\SmartBikeApp\\SmartBikeApp.csproj"
             }
           }
         }
