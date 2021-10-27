@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/pq3q3We2omUqwaUuIvGjCNrDw7tgJxk1axIwMRZdHYCEoY7J+kU/4ArHcp6GuyASHjrjWn06FOxDINfkhJsJQ==",
+  "dgSpecHash": "POIOKtNTcw9BOHElKIjwuuA0zrT7iyhxGFyexVH/Nff3KXYt5A9T6MHdQXC5uvFb0zqpMSN8tIdjY9L/LBsysg==",
   "success": true,
-  "projectFilePath": "Z:\\sharlila\\BikeApp\\SmartBikeApp\\SmartBikeApp\\SmartBikeApp\\SmartBikeApp.csproj",
+  "projectFilePath": "Z:\\תשפב\\sharlila\\BikeApp\\SmartBikeApp\\SmartBikeApp\\SmartBikeApp\\SmartBikeApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",

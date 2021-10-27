@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "Z:\\sharlila\\BikeApp\\SmartBikeApp\\SmartBikeApp\\SmartBikeApp\\SmartBikeApp.csproj": {}
+    "Z:\\תשפב\\sharlila\\BikeApp\\SmartBikeApp\\SmartBikeApp\\SmartBikeApp\\SmartBikeApp.csproj": {}
   },
   "projects": {
-    "Z:\\sharlila\\BikeApp\\SmartBikeApp\\SmartBikeApp\\SmartBikeApp\\SmartBikeApp.csproj": {
+    "Z:\\תשפב\\sharlila\\BikeApp\\SmartBikeApp\\SmartBikeApp\\SmartBikeApp\\SmartBikeApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "Z:\\sharlila\\BikeApp\\SmartBikeApp\\SmartBikeApp\\SmartBikeApp\\SmartBikeApp.csproj",
+        "projectUniqueName": "Z:\\תשפב\\sharlila\\BikeApp\\SmartBikeApp\\SmartBikeApp\\SmartBikeApp\\SmartBikeApp.csproj",
         "projectName": "SmartBikeApp",
-        "projectPath": "Z:\\sharlila\\BikeApp\\SmartBikeApp\\SmartBikeApp\\SmartBikeApp\\SmartBikeApp.csproj",
+        "projectPath": "Z:\\תשפב\\sharlila\\BikeApp\\SmartBikeApp\\SmartBikeApp\\SmartBikeApp\\SmartBikeApp.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "Z:\\sharlila\\BikeApp\\SmartBikeApp\\SmartBikeApp\\SmartBikeApp\\obj\\",
+        "outputPath": "Z:\\תשפב\\sharlila\\BikeApp\\SmartBikeApp\\SmartBikeApp\\SmartBikeApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"

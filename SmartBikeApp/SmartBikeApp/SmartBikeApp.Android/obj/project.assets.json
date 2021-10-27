@@ -2148,11 +2148,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "Z:\\sharlila\\BikeApp\\SmartBikeApp\\SmartBikeApp\\SmartBikeApp.Android\\SmartBikeApp.Android.csproj",
+      "projectUniqueName": "Z:\\תשפב\\sharlila\\BikeApp\\SmartBikeApp\\SmartBikeApp\\SmartBikeApp.Android\\SmartBikeApp.Android.csproj",
       "projectName": "SmartBikeApp.Android",
-      "projectPath": "Z:\\sharlila\\BikeApp\\SmartBikeApp\\SmartBikeApp\\SmartBikeApp.Android\\SmartBikeApp.Android.csproj",
+      "projectPath": "Z:\\תשפב\\sharlila\\BikeApp\\SmartBikeApp\\SmartBikeApp\\SmartBikeApp.Android\\SmartBikeApp.Android.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "Z:\\sharlila\\BikeApp\\SmartBikeApp\\SmartBikeApp\\SmartBikeApp.Android\\obj\\",
+      "outputPath": "Z:\\תשפב\\sharlila\\BikeApp\\SmartBikeApp\\SmartBikeApp\\SmartBikeApp.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -2173,8 +2173,8 @@
       "frameworks": {
         "monoandroid11.0": {
           "projectReferences": {
-            "Z:\\sharlila\\BikeApp\\SmartBikeApp\\SmartBikeApp\\SmartBikeApp\\SmartBikeApp.csproj": {
-              "projectPath": "Z:\\sharlila\\BikeApp\\SmartBikeApp\\SmartBikeApp\\SmartBikeApp\\SmartBikeApp.csproj"
+            "Z:\\תשפב\\sharlila\\BikeApp\\SmartBikeApp\\SmartBikeApp\\SmartBikeApp\\SmartBikeApp.csproj": {
+              "projectPath": "Z:\\תשפב\\sharlila\\BikeApp\\SmartBikeApp\\SmartBikeApp\\SmartBikeApp\\SmartBikeApp.csproj"
             }
           }
         }
