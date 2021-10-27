@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "G/TKNHy9aGS2gg9iTV7Co9MxCsW5y5gZHRFBXmPnAPo23jE6pNtGmD1z4gRllCGR8R8PDiJrWlbaqzc45Ywlug==",
+  "dgSpecHash": "KX9GUKtzlqGhK6w7Vzmd6pqwEDjfHMLNd8Lh4IFYs+h3Bz7KCDMCsLW8qgdgAGKXGT13H9u6JiIum/OpNlMtTQ==",
   "success": true,
-  "projectFilePath": "Z:\\תשפב\\sharlila\\BikeApp\\SmartBikeApp\\SmartBikeApp\\SmartBikeApp.iOS\\SmartBikeApp.iOS.csproj",
+  "projectFilePath": "Z:\\sharlila\\BikeApp\\SmartBikeApp\\SmartBikeApp\\SmartBikeApp.iOS\\SmartBikeApp.iOS.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
