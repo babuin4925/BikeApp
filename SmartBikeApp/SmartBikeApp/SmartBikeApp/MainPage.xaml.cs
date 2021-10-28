@@ -14,5 +14,6 @@ namespace SmartBikeApp
         {
             InitializeComponent();
         }
+
     }
 }

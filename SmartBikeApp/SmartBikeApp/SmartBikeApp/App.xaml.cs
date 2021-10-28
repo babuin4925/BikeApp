@@ -10,7 +10,11 @@ namespace SmartBikeApp
         {
             InitializeComponent();
 
-            MainPage = new MainPage();
+            /*var tabbedPage = new TabbedPage();
+            tabbedPage.Children.Add(new MotionPage());
+            tabbedPage.Children.Add(new LockPage());
+            */
+            MainPage = new NavigationPage(new SelectDevicePage());
         }
 
         protected override void OnStart()

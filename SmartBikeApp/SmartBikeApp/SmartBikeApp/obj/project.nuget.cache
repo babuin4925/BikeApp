@@ -1,12 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "/pq3q3We2omUqwaUuIvGjCNrDw7tgJxk1axIwMRZdHYCEoY7J+kU/4ArHcp6GuyASHjrjWn06FOxDINfkhJsJQ==",
+  "dgSpecHash": "2YJh3EimbLHxZB5YAkElczG5GxwLagBOoTcO4cBjJJWtlai/N5PqLD4NqARyS9RhgM4nDF/sNlg2HPRSby7Zsw==",
   "success": true,
   "projectFilePath": "Z:\\sharlila\\BikeApp\\SmartBikeApp\\SmartBikeApp\\SmartBikeApp\\SmartBikeApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\plugin.bluetoothclassic\\1.1.5\\plugin.bluetoothclassic.1.1.5.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.3\\system.runtime.compilerservices.unsafe.4.5.3.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512"
   ],
