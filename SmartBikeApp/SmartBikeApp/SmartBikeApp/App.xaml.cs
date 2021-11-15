@@ -16,7 +16,7 @@ namespace SmartBikeApp
             */
             MainPage = new NavigationPage(new SelectDevicePage());
         }
-
+        
         protected override void OnStart()
         {
         }
