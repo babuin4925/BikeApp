@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="SmartBikeApp.TransieverPage">
+    <ContentPage.Content>
+        <StackLayout>
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+                <Label Grid.Column="0" Grid.Row="0" HorizontalOptions="Center"
+                       Text= "{Binding Source = {x:Reference stepperDigit}, Path=Value}"/>
+                <Stepper x:Name ="stepperDigit" Grid.Column="0" Grid.Row="1" HorizontalOptions="Center"
+                         Minimum="0" Maximum="9" Increment="1" Value="0"/>
+                <Button x:Name="btnTransmit" Text="Transmit" Clicked="btnTransmit_Clicked"/>
+                <Button x:Name="btnRecieve" Text="Recieve" Clicked="btnRecieve_Clicked"/>
+            </Grid>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

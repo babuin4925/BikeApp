@@ -16,3 +16,4 @@ Z:\sharlila\BikeApp\SmartBikeApp\SmartBikeApp\SmartBikeApp\obj\Debug\netstandard
 Z:\sharlila\BikeApp\SmartBikeApp\SmartBikeApp\SmartBikeApp\obj\Debug\netstandard2.0\ref\SmartBikeApp.dll
 Z:\sharlila\BikeApp\SmartBikeApp\SmartBikeApp\SmartBikeApp\obj\Debug\netstandard2.0\SmartBikeApp.pdb
 Z:\sharlila\BikeApp\SmartBikeApp\SmartBikeApp\SmartBikeApp\obj\Debug\netstandard2.0\SelectDevicePage.xaml.g.cs
+Z:\sharlila\BikeApp\SmartBikeApp\SmartBikeApp\SmartBikeApp\obj\Debug\netstandard2.0\TransieverPage.xaml.g.cs

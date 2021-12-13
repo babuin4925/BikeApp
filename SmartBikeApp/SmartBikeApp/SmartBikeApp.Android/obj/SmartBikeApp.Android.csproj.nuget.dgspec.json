@@ -44,10 +44,6 @@
       "frameworks": {
         "monoandroid11.0": {
           "dependencies": {
-            "IronPython": {
-              "target": "Package",
-              "version": "[2.7.11, )"
-            },
             "Plugin.BluetoothClassic": {
               "target": "Package",
               "version": "[1.1.5, )"
@@ -106,10 +102,6 @@
         "netstandard2.0": {
           "targetAlias": "netstandard2.0",
           "dependencies": {
-            "IronPython": {
-              "target": "Package",
-              "version": "[2.7.11, )"
-            },
             "NETStandard.Library": {
               "suppressParent": "All",
               "target": "Package",

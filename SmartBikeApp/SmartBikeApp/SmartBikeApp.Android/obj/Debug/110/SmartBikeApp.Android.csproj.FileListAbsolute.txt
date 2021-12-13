@@ -24,7 +24,6 @@ Z:\sharlila\BikeApp\SmartBikeApp\SmartBikeApp\SmartBikeApp.Android\obj\Debug\110
 Z:\sharlila\BikeApp\SmartBikeApp\SmartBikeApp\SmartBikeApp.Android\obj\Debug\110\R.txt
 Z:\sharlila\BikeApp\SmartBikeApp\SmartBikeApp\SmartBikeApp.Android\obj\Debug\110\R.cs.flag
 Z:\sharlila\BikeApp\SmartBikeApp\SmartBikeApp\SmartBikeApp.Android\obj\Debug\110\SmartBikeApp.Android.csproj.CoreCompileInputs.cache
-Z:\sharlila\BikeApp\SmartBikeApp\SmartBikeApp\SmartBikeApp.Android\obj\Debug\110\SmartBikeApp.Android.csproj.CopyComplete
 Z:\sharlila\BikeApp\SmartBikeApp\SmartBikeApp\SmartBikeApp.Android\obj\Debug\110\SmartBikeApp.Android.dll
 Z:\sharlila\BikeApp\SmartBikeApp\SmartBikeApp\SmartBikeApp.Android\obj\Debug\110\SmartBikeApp.Android.pdb
 Z:\sharlila\BikeApp\SmartBikeApp\SmartBikeApp\SmartBikeApp.Android\obj\Debug\110\android\bin\com.companyname.smartbikeapp.apk

@@ -28,9 +28,9 @@ namespace SmartBikeApp
             var device = (Plugin.BluetoothClassic.Abstractions.BluetoothDeviceModel)e.SelectedItem;
             if(device != null)
             {
-                var tabbedPage = new TabbedPage();
-                tabbedPage.Children.Add(new MotionPage());
-                tabbedPage.Children.Add(new LockPage());
+                var tabbedPage = new TransieverPage();
+                //tabbedPage.Children.Add(new MotionPage());
+                //tabbedPage.Children.Add(new LockPage());
                 tabbedPage.BindingContext = device;
                 await Navigation.PushAsync(tabbedPage);
             }
