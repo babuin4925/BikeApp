@@ -17,9 +17,17 @@ namespace SmartBikeApp
             InitializeComponent();
         }
 
-        private void btnTransmit_Clicked(object sender, EventArgs e)
+        private async void btnTransmit_Clicked(object sender, EventArgs e)
         {
-
+            var device = (Plugin.BluetoothClassic.Abstractions.BluetoothDeviceModel)BindingContext;
+            if (device != null)
+            {
+                var adapter = DependencyService.Resolve<Plugin.BluetoothClassic.Abstractions.IBluetoothAdapter>();
+                using(var connection = adapter.CreateConnection(device))
+                {
+                    
+                }
+            }
         }
 
         private void btnRecieve_Clicked(object sender, EventArgs e)

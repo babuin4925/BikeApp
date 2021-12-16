@@ -576,3 +576,4 @@ Z:\sharlila\BikeApp\SmartBikeApp\SmartBikeApp\SmartBikeApp.Android\obj\Debug\110
 Z:\sharlila\BikeApp\SmartBikeApp\SmartBikeApp\SmartBikeApp.Android\obj\Debug\110\android\assets\Plugin.BluetoothClassic.Abstractions.dll
 Z:\sharlila\BikeApp\SmartBikeApp\SmartBikeApp\SmartBikeApp.Android\obj\Debug\110\android\assets\Plugin.BluetoothClassic.Android.dll
 Z:\sharlila\BikeApp\SmartBikeApp\SmartBikeApp\SmartBikeApp.Android\obj\Debug\110\android\assets\System.Memory.dll
+Z:\sharlila\BikeApp\SmartBikeApp\SmartBikeApp\SmartBikeApp.Android\obj\Debug\110\SmartBikeApp.Android.csproj.CopyComplete
