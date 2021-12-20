@@ -5,6 +5,7 @@
              Title="Select Device">
     <ContentPage.Content>
         <StackLayout>
+            <Button Text="Refresh" Clicked="refresh_Clicked"/>
             <ListView x:Name="lvBondedDevices" ItemSelected="lvBondedDevices_ItemSelected">
                 <ListView.ItemTemplate>
                     <DataTemplate>

@@ -36,5 +36,12 @@ namespace SmartBikeApp
             }
             lvBondedDevices.SelectedItem = null;
         }
+
+        private void refresh_Clicked(object sender, EventArgs e)
+        {
+            var vUpdatedPage = new SelectDevicePage(); 
+            Navigation.InsertPageBefore(vUpdatedPage, this); 
+            Navigation.PopAsync();
+        }
     }
 }
